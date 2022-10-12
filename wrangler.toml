@@ -1,3 +1,4 @@
 name = "my-worker"
 main = "src/index.ts"
 compatibility_date = "2022-10-11"
+account_id = "e90811d40532a775c1735019f9b0ed80"
